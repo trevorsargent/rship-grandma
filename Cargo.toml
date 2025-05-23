@@ -1,0 +1,13 @@
+[package]
+name = "rship-grandma"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.98"
+rosc = "0.11.4"
+rship-sdk = "0.1.13"
+schemars = "0.8.22"
+serde = "1.0.219"
+tokio = { version = "1.45.0", features = ["full"] }
+uuid = "1.16.0"

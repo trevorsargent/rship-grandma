@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@rship/sdk": "npm:@jsr/rship__sdk@3.0.0-canary.580",
+    "@tsconfig/bun": "^1.0.7",
+    "@types/bun": "^1.2.13",
+    "@types/node-osc": "^9.1.0",
+    "bun-types": "^1.2.13",
+    "node-osc": "^9.1.5",
+    "osc": "^2.4.5",
+    "osc-js": "^2.4.1",
+    "reflect-metadata": "^0.2.2"
+  }
+}
